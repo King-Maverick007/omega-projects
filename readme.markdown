@@ -2,7 +2,7 @@
 
 This is my personal omega project list.
 
-Check out the issues section.
+[Check out the issues section.](https://github.com/substack/omega-projects/issues)
 
 # funds
 
